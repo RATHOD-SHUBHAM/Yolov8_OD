@@ -13,9 +13,3 @@ Anchor boxes were a notoriously tricky part of earlier YOLO models, since they m
 <img width="672" alt="image-15" src="https://github.com/RATHOD-SHUBHAM/Yolov8_OD/assets/58945964/197465d1-d3f2-44b6-9c62-fadb58616fd3">
 
 
-
-The detection head of YOLOv5, visualized in netron.app
-Anchor free detection reduces the number of box predictions, which speeds up Non-Maximum Suppression (NMS), a complicated post processing step that sifts through candidate detections after inference.
-
-
-The detection head for YOLOv8, visualized in netron.app
