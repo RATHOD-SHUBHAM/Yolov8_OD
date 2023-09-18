@@ -10,7 +10,7 @@ YOLOv8 is an anchor-free model. This means it predicts directly the center of an
 Visualization of an anchor box in YOLO
 Anchor boxes were a notoriously tricky part of earlier YOLO models, since they may represent the distribution of the target benchmark's boxes but not the distribution of the custom dataset.
 
-
+<img width="672" alt="image-15" src="https://github.com/RATHOD-SHUBHAM/Yolov8_OD/assets/58945964/197465d1-d3f2-44b6-9c62-fadb58616fd3">
 
 
 
